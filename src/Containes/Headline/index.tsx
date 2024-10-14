@@ -1,4 +1,3 @@
-import React from 'react';
 import { BodyHeadline, Container, ImgHeadline, Quadrado1, Quadrado2, Quadrado3, Quadrado4, Quadrado5 } from "./style";
 import { Bar } from 'react-chartjs-2';
 import {
