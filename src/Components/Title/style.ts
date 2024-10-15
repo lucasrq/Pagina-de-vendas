@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 
 const Titles = styled.div`
-    background-color:#093d25;
+    background-color:#000002c2;
     padding:25px 35px;
     border-radius:20px;
     width:70%;

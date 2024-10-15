@@ -22,13 +22,13 @@ export const Container = styled.section`
         padding:50px;
         border-radius:29px;
         &:nth-child(1){
-            background-color:#094025;
+            background-color:#000002c2;
         }
         &:nth-child(2){
             background-color:#032e18;
         }
         &:nth-child(3){
-            background-color:#094025;
+            background-color:#000002c2;
         }
         h3{
             text-align:center;

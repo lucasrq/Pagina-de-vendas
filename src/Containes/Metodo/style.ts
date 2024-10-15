@@ -15,7 +15,7 @@ export const Container = styled.section`
     overflow-y:hidden;
   }
   .Right{
-    background-color:#042e1a;
+    background-color:#000002c2;
     border-radius:35px;
     z-index:0;
 
