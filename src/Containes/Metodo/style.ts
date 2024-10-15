@@ -2,9 +2,10 @@ import styled from 'styled-components';
 
 export const Container = styled.section`
   width: 100%;
-  position:absolute;
-  margin: 0 auto; /* Centraliza o container */
-  padding: 50px; /* Espaçamento interno em cima e embaixo, e nas laterais */
+  position:relative;
+  margin: 0 auto; 
+  padding: 50px; 
+  
   .Main{
   display: grid;
   grid-template-columns:  60% 40%;   

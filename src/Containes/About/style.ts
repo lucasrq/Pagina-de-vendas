@@ -3,7 +3,7 @@ import { styled } from "styled-components";
 
 export const Container = styled.section`
   width: 100%;
-  height: 100vh; /* Altura automática para se ajustar ao conteúdo */
+   /* Altura automática para se ajustar ao conteúdo */
   margin: 0 auto; /* Centraliza o container */
   padding: 50px; /* Espaçamento interno em cima e embaixo, e nas laterais */
   display: flex;
