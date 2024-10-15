@@ -16,7 +16,7 @@ z-index:2;
 height:100%;
     .HeadlineTitle{
         background-color:#0d4a2d;
-        font-size:42px;
+        font-size:32px;
         padding:46px 25px;
         border-radius:40px;
         min-width:100px;
@@ -36,15 +36,23 @@ export const ImgHeadline = styled.div`
     margin-left:50px;
     height:100%;
     .Top{
+        background-color:#0d4a2d;
+        border-radius:40px;
+        margin-bottom:20px;
+        border-radius:40px;
         h2{
-            color:#000;
+            color:#fff;
             text-align:center;
+            
         }
         
     }
     .Bottom{
+        border:1px solid #053A1E;
+        background-color:#0d4a2d;
+        border-radius:40px;
         h2{
-            color:#000;
+            color:#fff;
             text-align:center;
         }
       
@@ -76,7 +84,7 @@ export const Quadrado2 = styled.div`
 export const Quadrado3 = styled.div`
         width:300px;
         height:300px;
-        background-color:#0d4a2d;
+        background-color:#094025;
         position:absolute;
         border-radius:35px;
         right:0;

@@ -33,7 +33,7 @@ function Headline() {
             {
                 label: 'Longo Prazo',
                 data: [3000, 6000, 12000, 20000, 35000],
-                backgroundColor: 'rgba(19, 73, 224, 0.6)',
+                backgroundColor: 'rgba(110, 220, 14, 0.6)',
             },
         ],
     };
@@ -62,14 +62,14 @@ function Headline() {
                 <ImgHeadline>
                 <div className='Top'>
                 <h2>Investimentos a Curto Prazo</h2>
-                    <div style={{ height: '300px', width: '100%' }}>
+                    <div style={{ height: '270px', width: '100%' }}>
                         <Bar data={shortTermData} options={{ responsive: true, maintainAspectRatio: false }} />
                     </div>
                 </div>
                     
                 <div className='Bottom'>
                 <h2>Investimentos a Longo Prazo</h2>
-                    <div style={{ height: '300px', width: '100%'}}>
+                    <div style={{ height: '270px', width: '100%'}}>
                         <Bar data={longTermData} options={{ responsive: true, maintainAspectRatio: false }} />
                     </div>
                 </div>
