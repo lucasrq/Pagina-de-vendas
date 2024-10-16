@@ -10,8 +10,7 @@ function Testemons(){
 
     return(
         <Container>
-            <Title title="Depoimentos "/>
-
+            <Title title="Depoimentos"/>
             <div className="Depoimentos">
                     <img src={depoimento1}/>
                     <img src={depoimento2}/>

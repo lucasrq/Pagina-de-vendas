@@ -32,9 +32,11 @@ function MetodoGJ() {
                     </h3>
                     
                 </div>
-                <button className="garanta-btn">
-                        GARANTA JÁ
-                    </button>
+                        <a href={'#Pagamentos'}>
+                        <button className="garanta-btn">
+                            GARANTA JÁ
+                        </button>
+                        </a>
             </section>
 
            

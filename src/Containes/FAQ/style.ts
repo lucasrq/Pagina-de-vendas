@@ -59,4 +59,7 @@ export const Container = styled.section`
       }
     }
   }
+  @media (max-width: 480px) {
+    display:none;
+  }
 `

@@ -3,7 +3,7 @@ import { useState } from "react"
 import { Container } from "./style"
 
 function PerguntasFrequentes() {
-    const [numberFaq, setNumberFaq] = useState(0);
+    const [numberFaq, setNumberFaq] = useState(1);
 
     
     const Pergunta = () => {
@@ -47,13 +47,6 @@ function PerguntasFrequentes() {
             return null
         };
     };
-
-
-
-
-
-
-
     return (
         <Container>
             <h1>FAQ</h1>

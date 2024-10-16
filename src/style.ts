@@ -8,9 +8,10 @@ export const StyleGlobal = createGlobalStyle`
         color:#fff;
         font-family: "Poppins", sans-serif;
         overflow-x:hidden;
+        
     }
     
     body{
-        background-color:#012615;
+        background-color:#012612;
     }
 `

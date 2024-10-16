@@ -30,20 +30,22 @@ function Next() {
                 </p>
             </div>
 
-            <div className="right">
-                <h1><s>de R$147 por </s></h1>
+            <div className="right" id="Pagamentos">
+                <h1><s>de R$99 por </s></h1>
 
                 <h4>apenas 6x de</h4>
 
-                <h2>R$ 6,42</h2>
+                <h2>R$ 2,88</h2>
 
                 <h3>
                 ou <u>R$17,29</u>  a vista.
                 </h3>
-
+                <a href="https://pay.kiwify.com.br/0ixlZ3n">
                 <button>
                     GARANTA JÁ
                 </button>
+                </a>
+               
             </div>
         </Container>
     )

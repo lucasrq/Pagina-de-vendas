@@ -25,7 +25,7 @@ export const Container = styled.section`
             background-color:#000002c2;
         }
         &:nth-child(2){
-            background-color:#032e18;
+            background-color:#012612;
         }
         &:nth-child(3){
             background-color:#000002c2;
@@ -35,5 +35,39 @@ export const Container = styled.section`
             font-size:36px;
         }
     }
+  }
+  @media (max-width: 480px) {
+    width: 100%;
+    margin: 0 auto;    
+    padding:0;
+    h2{
+        font-size:22px;
+    }
+  .aboutSing{
+    display:flex;
+    flex-direction:column;
+    align-items:center;   
+    margin:0%;
+    gap:0;
+    margin-bottom:40px;
+    div{
+        width:400px;
+        padding:50px;
+        border-radius:29px;
+        &:nth-child(1){
+            background-color:#000002c2;
+        }
+        &:nth-child(2){
+            background-color:#012612;
+        }
+        &:nth-child(3){
+            background-color:#000002c2;
+        }
+        h3{
+            text-align:center;
+            font-size:27px;
+        }
+    }
+  }
   }
 `;
