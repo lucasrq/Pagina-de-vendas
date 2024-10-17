@@ -79,7 +79,7 @@ export const Container = styled.section`
     z-index: 1; 
     font-weight: bold;
     border-radius: 14px;
-    width: 276px; 
+    width: 329px; 
     margin-left:220px;
     font-size: 24px;
     &:hover {

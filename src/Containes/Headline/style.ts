@@ -51,6 +51,7 @@ margin-bottom:20px;
         background-color:#0000;
         width:100%;
         font-size:14px;
+        text-align:center;
         span{
             color:#167d57;
         }
