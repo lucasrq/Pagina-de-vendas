@@ -47,11 +47,10 @@ margin-bottom:20px;
 
     @media (max-width: 480px) {
       z-index:2;
-      width:100%;
     .HeadlineTitle{
-        background-color:#000002c2;
+        background-color:#0000;
+        width:100%;
         font-size:14px;
-        border-radius:20px;
         span{
             color:#167d57;
         }

@@ -34,8 +34,6 @@ export const Container = styled.section`
     background-color:#0d4a2d;
     align-items:center;
     text-align:center;
-
-
     h1{
         font-size:35px;
     }
@@ -90,7 +88,7 @@ export const Container = styled.section`
     margin-right:0;
     h3{
     font-size:19px;
-    text-align:left;
+    text-align:center;
   }
   span{
     color: #167d57;
@@ -98,16 +96,16 @@ export const Container = styled.section`
   p{
     margin-top:20px;
     font-size:18px;
+    text-align:center;
   }
   }
   .right{
+    margin:20px 20px 40px 20px;
     padding:30px;
     border-radius:30px;
     background-color:#0d4a2d;
     align-items:center;
     text-align:center;
-
-
     h1{
         font-size:35px;
     }
