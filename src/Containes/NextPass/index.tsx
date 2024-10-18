@@ -33,9 +33,9 @@ function Next() {
             <div className="right" id="Pagamentos">
                 <h1><s>de R$99 por </s></h1>
 
-                <h4>apenas 6x de</h4>
+                <h4>apenas 3x de</h4>
 
-                <h2>R$ 2,88</h2>
+                <h2>R$ 6,11</h2>
 
                 <h3>
                 ou <u>R$17,29</u>  a vista.
