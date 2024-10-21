@@ -94,14 +94,14 @@ function Headline() {
                 <ImgHeadline>
                 <div className='Top'>
                 <h2>Investimentos a Curto Prazo</h2>
-                    <div style={{ height: '270px', width: '100%' }}>
+                    <div style={{ height: '350px', width: '100%' }}>
                         <Bar data={shortTermData} options={{ responsive: true, maintainAspectRatio: false }} />
                     </div>
                 </div>
                     
                 <div className='Bottom'>
                 <h2>Investimentos a Longo Prazo</h2>
-                    <div style={{ height: '270px', width: '100%'}}>
+                    <div style={{ height: '350px', width: '100%'}}>
                         <Bar data={longTermData} options={{ responsive: true, maintainAspectRatio: false }} />
                     </div>
                 </div>

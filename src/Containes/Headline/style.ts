@@ -74,6 +74,7 @@ export const ImgHeadline = styled.div`
         border-radius:40px;
         h2{
             color:#fff;
+            font-size:30px;
             text-align:center;
             
         }
@@ -86,6 +87,7 @@ export const ImgHeadline = styled.div`
         border-radius:40px;
         h2{
             color:#fff;
+            font-size:30px;
             text-align:center;
         }
     }
